@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## introduction
+이아연입니당
+
+## career
+영남대학교 컴퓨터공학과 2학년생🌱
+
+## links
+insta - @a_yeon_._
+e-mail sw56eet@gmail.com
+
+
 <!--
 **dkduslee/dkduslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
