@@ -6,15 +6,15 @@
 이아연입니당
 
 ## career
-영남대학교 컴퓨터공학과 2학년생🌱
+영남대학교 컴퓨터공학과 3학년생🌱
 
 파이썬, C++ 공부중
-42경산 3기생
+42경산 3기 A
 
 ## links
-insta - @a_yeon_._
+insta - @1aya1ways
 
-e-mail sw56eet@gmail.com
+e-mail ayeon56@yu.ac.kr
 
 
 <!--
